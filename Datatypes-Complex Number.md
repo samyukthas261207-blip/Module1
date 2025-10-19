@@ -26,4 +26,7 @@ print(x.imag)
 
 ## Output
 
+<img width="1086" height="807" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/096fadc5-39e3-4e5c-9eb2-230776530cbe" />
+
+
 ## Result
