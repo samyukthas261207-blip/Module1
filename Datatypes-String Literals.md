@@ -15,6 +15,7 @@ print(men_stepped_on_the_moon)
 
 ## Output
 
- https://lms2.ai.saveetha.in/course/view.php?id=7
+ <img width="1279" height="287" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/b21edeb5-eb83-4efa-a83e-d9cf1ee01e97" />
+
 
 ## Result
