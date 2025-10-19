@@ -10,6 +10,7 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 men_stepped_on_the_moon=input()
+
 print(men_stepped_on_the_moon)
 
 ## Output
