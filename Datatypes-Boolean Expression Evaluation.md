@@ -37,3 +37,4 @@ print("d:", d)
 
 
 ## Result
+Thus,the python program that evaluates and prints the result of boolean and arithmetic expressions involving True and False is created sucessfully.
