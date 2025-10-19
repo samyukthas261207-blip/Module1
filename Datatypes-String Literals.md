@@ -19,3 +19,4 @@ print(men_stepped_on_the_moon)
 
 
 ## Result
+Thus the Python program to read a string from the user and then printing it is executed successfully.
